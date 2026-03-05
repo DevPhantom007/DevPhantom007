@@ -17,7 +17,7 @@
 *   🔪 **[Knife-Store](https://github.com/DevPhantom007/Knife-Store)** - Դանակների խանութի կայք (HTML, CSS, JS)
 
 ## 📊 GitHub-ի վիճակագրություն
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPhantom007&show_icons=true&theme=radical)
+![DevPhantom007's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPhantom007&show_icons=true&theme=radical)
 
 ## 📫 Ինչպես կապվել ինձ հետ
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:քու-էլ-փոստդ@gmail.com)
