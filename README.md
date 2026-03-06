@@ -24,7 +24,7 @@
 - [**Car-Shop**](https://github.com/DevPhantom007/Car-Shop) - [🔗 Live Demo](https://devphantom007.github.io/Car-Shop/)
 - [**ToyStore**](https://github.com/DevPhantom007/ToyStore) - [🔗 Live Demo](https://devphantom007.github.io/ToyStore/)
 - [**Pizza-Shop**](https://github.com/DevPhantom007/Pizza-Shop) - [🔗 Live Demo](https://devphantom007.github.io/Pizza-Shop/)
-- [**NFT-Marketplace**](https://github.com/DevPhantom007/NFT-Marketplace) - [🔗 Live Demo](https://devphantom007.github.io/Nft-Marketplace/)
+- [**NFT-Marketplace**](https://github.com/DevPhantom007/NFT-Marketplace) - [🔗 Live Demo]([https://devphantom007.github.io/Nft-Marketplace/](https://devphantom007.github.io/NFT-Marketplace/))
 - [**Camera-Web**](https://github.com/DevPhantom007/Camera-Web) - [🔗 Live Demo](https://devphantom007.github.io/Camera-Web/)
 - [**Kugoo**](https://github.com/DevPhantom007/Kugoo) - [🔗 Live Demo](https://devphantom007.github.io/kugoo/)
 - [**Computer-Store**](https://github.com/DevPhantom007/Computer-Store) - [🔗 Live Demo](https://devphantom007.github.io/Computer-Store/)
