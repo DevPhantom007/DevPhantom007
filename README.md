@@ -51,14 +51,6 @@
 - [**Dudeshape**](https://github.com/DevPhantom007/Dudeshape) - [🔗 Live Demo](https://devphantom007.github.io/Dudeshape/)
 - [**Wildberries-Clone**](https://github.com/DevPhantom007/Wildberries-Clone) - [🔗 Live Demo](https://devphantom007.github.io/Wildberries-Clone/)
 
-## 🎯 Ընթացիկ աշխատանքներ
-- [x] ArkoMebel (React, Tailwind)
-- [x] Pharmacy
-- [x] Knife-Store
-- [ ] Cake-Site
-- [ ] Restouran
-- [ ] Tic-Tac-Toe
-- [ ] Rock-Paper-Sissors
 
 ## 📫 Ինչպես կապվել ինձ հետ
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhitaryantigran435@gmail.com)
